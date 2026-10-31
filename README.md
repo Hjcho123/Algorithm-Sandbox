@@ -4,5 +4,5 @@ A working repository mainly used to explore and learn algorithmic design and imp
 
 | File Name | Description | 
 | --- | --- | 
-| Maximum Sub-Array Sum | Demonstration of solving a maximum sub array sum problem with varying levels of time complexity | 
+| Maximum Sub-Array Sum | Demonstration of solving a maximum sub array sum problem with varying levels of time complexity ranging from $O(n^3)$ | 
 
